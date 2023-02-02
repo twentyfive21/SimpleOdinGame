@@ -2,7 +2,7 @@
 ---
 #Overview:
 ---
-NOTE the javascript code at the end is not mines, but the one in the beginning is I needed some help tying my functions at the end. 
+NOTE: the javascript code at the end is not mines, but the one in the beginning is I needed some help tying my functions at the end. 
 ---
 This game was a project from the odin project and also my first implementation of javascript. The goal was to get the computer and users selection. Then keep track of the score and print out the winner at the end. The task was to play this game from the console first to make sure the program was running smoothly. Then later down the line this game will have a graphical user interface with buttons. I had to create a number of functions and safe to say I learned alot, but I had to do alot of googling to help implement things. Not saying that anything is wrong with it just wanted to note my process. I also tried using the console to debug a little, but most of my errors were simple reference or syntax errors. 
 ### Things I learned 
